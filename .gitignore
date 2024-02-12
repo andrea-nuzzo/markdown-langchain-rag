@@ -1,0 +1,20 @@
+# Python virtual environment files and folders
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+__pycache__/
+
+# Database embeddings (if it contains data or files generated during execution)
+db/
+
+# Environment and configuration files
+.env
+
+# System files and cache
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+.history/
